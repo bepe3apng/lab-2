@@ -187,7 +187,7 @@
 	"stb-master/stb_image.h"
 	"texture.h"
 
-1714664680 source:c:\users\Влад\documents\github\lab-2\main.c
+1714665150 source:c:\users\Влад\documents\github\lab-2\main.c
 	<windows.h>
 	<gl/gl.h>
 	<string.h>
@@ -195,7 +195,7 @@
 	"stb-master/stb_image.h"
 	"texture.h"
 
-1679371758 c:\users\Влад\documents\github\lab-2\menu.h
+1714665240 c:\users\Влад\documents\github\lab-2\menu.h
 
 1679370446 c:\users\Влад\documents\github\lab-2\stb-master\stb_image.h
 	"stb_image.h"
@@ -214,7 +214,7 @@
 	<intrin.h>
 	<arm_neon.h>
 
-1679370446 c:\users\Влад\documents\github\lab-2\texture.h
+1714665239 c:\users\Влад\documents\github\lab-2\texture.h
 
 1679906471 source:c:\users\Влад\documents\github\lab-2\menu.c
 	<gl/gl.h>
